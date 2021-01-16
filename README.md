@@ -8,9 +8,9 @@
 
 
 <!--Introduction -->
-<h4 style="margin: 0px; margin-bottom: 2px"> > Hello! 👋 I'm Carlos!</h4>
-<h4 style="margin: 0px; margin-bottom: 2px"> > I like working on Open Source and EdTech projects ❤️</h4>
-<h4 style="margin: 0px; margin-bottom: 2px"> > I work as a Consultant for LTI integrations 💻</h4>
+<h4 style="margin: 0px; margin-bottom: 0px"> > Hello! 👋 I'm Carlos!</h4>
+<h4 style="margin: 0px; margin-bottom: 0px"> > I like working on Open Source and EdTech projects ❤️</h4>
+<h4 style="margin: 0px; margin-bottom: 0px"> > I work as a Consultant for LTI integrations 💻</h4>
 
 
 
@@ -19,7 +19,7 @@
 
 
 <p>
-  <a href="https://cvmcosta.github.io/ltijs"><img width="230" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/logo-300.svg"></a>
+  <div align="center"><a href="https://cvmcosta.github.io/ltijs"><img width="230" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/logo-300.svg"></a></div>
 </p>
 
 > Ltijs
@@ -31,7 +31,7 @@
 ---
 
 <p>
-  <a href="https://ltiaas.cvmcosta.com"><img width="320" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/ltiaas.svg"></a>
+  <div align="center"><a href="https://ltiaas.cvmcosta.com"><img width="320" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/ltiaas.svg"></a></div>
 </p>
 
 > LTI as a Service
@@ -44,7 +44,7 @@
 ---
 
 <p>
-  <a href="https://ltiaas.cvmcosta.com"><img width="280" src="assets/moodle-lti.png"></a>
+  <div align="center"><a href="https://ltiaas.cvmcosta.com"><img width="280" src="assets/moodle-lti.png"></a></div>
 </p>
 
 > Moodle as a LTI 1.3 Provider
