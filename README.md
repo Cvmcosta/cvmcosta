@@ -66,18 +66,18 @@
 
 
 <a href="mailto:cvmcosta@gmail.com">
-  <img src="assets/svg/social/gmail.svg" alt="gmail" 
-</a>  
-
-
-<a href="https://www.linkedin.com/in/carlos-vin%C3%ADcius-761666145/">
-  <img src="assets/svg/social/linkedin.svg" alt="linkedin" 
+  <img style="margin-right: 5px" src="assets/svg/social/gmail.svg" alt="gmail" 
 </a>  
 
   
 <a href="https://twitter.com/cvmcosta">
-  <img src="assets/svg/social/twitter.svg" alt="twitter"
+  <img style="margin-right: 5px" src="assets/svg/social/twitter.svg" alt="twitter"
 </a>
+
+<a href="https://www.linkedin.com/in/carlos-vin%C3%ADcius-761666145/">
+  <img style="margin-right: 5px" src="assets/svg/social/linkedin.svg" alt="linkedin" 
+</a>  
+
 
 
 
