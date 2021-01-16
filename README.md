@@ -53,13 +53,6 @@
 - Allows Moodle to serve Resources through Deep Linking
 
 
-## ⭐  Other cool stuff i did: 
-
-- Implemented Moodle's LTI Support for JWK Keyset.
-- Worked on Moodle's Support for the new LTI Dynamic Registration Service.
-- Offered consultation in the LTI integrations of over a dozen companies around the world.
-
-
 
 ## 📫 Where to find me
 
