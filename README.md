@@ -8,9 +8,9 @@
 
 
 <!--Introduction -->
-<h4 style="margin: 0px; margin-bottom: 5px"> > Hello! 👋 I'm Carlos!</h4>
-<h4 style="margin: 0px; margin-bottom: 5px"> > I like working on Open Source and EdTech projects ❤️</h4>
-<h4 style="margin: 0px; margin-bottom: 5px"> > I work as a Consultant for LTI integrations 💻</h4>
+<h4 style="margin: 0px; margin-bottom: 2px"> > Hello! 👋 I'm Carlos!</h4>
+<h4 style="margin: 0px; margin-bottom: 2px"> > I like working on Open Source and EdTech projects ❤️</h4>
+<h4 style="margin: 0px; margin-bottom: 2px"> > I work as a Consultant for LTI integrations 💻</h4>
 
 
 
