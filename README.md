@@ -19,7 +19,7 @@
 
 
 <p>
-  <div align="center"><a href="https://cvmcosta.github.io/ltijs"><img width="230" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/logo-300.svg"></a></div>
+  <a href="https://cvmcosta.github.io/ltijs"><img width="230" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/logo-300.svg"></a>
 </p>
 
 > Ltijs
@@ -31,7 +31,7 @@
 ---
 
 <p>
-  <div align="center"><a href="https://ltiaas.cvmcosta.com"><img width="320" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/ltiaas.svg"></a></div>
+  <a href="https://ltiaas.cvmcosta.com"><img width="320" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/ltiaas.svg"></a>
 </p>
 
 > LTI as a Service
@@ -44,7 +44,7 @@
 ---
 
 <p>
-  <div align="center"><a href="https://ltiaas.cvmcosta.com"><img width="280" src="assets/moodle-lti.png"></a></div>
+  <a href="https://ltiaas.cvmcosta.com"><img width="280" src="assets/moodle-lti.png"></a>
 </p>
 
 > Moodle as a LTI 1.3 Provider
