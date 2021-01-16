@@ -1,4 +1,4 @@
-<center><img width="260px" alt="ltijs" src="assets/avatar.png"></img></center> 
+<div align="center"><img width="260px" alt="ltijs" src="assets/avatar.png"></img></div> 
 
 <!-- Greeting -->
 <h1 style="margin-bottom: 0px" align="center">Carlos Costa | @cvmcosta</h1>
@@ -19,7 +19,7 @@
 
 
 <p>
-  <center><a href="https://cvmcosta.github.io/ltijs"><img width="230" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/logo-300.svg"></a></center>
+  <div align="center"><a href="https://cvmcosta.github.io/ltijs"><img width="230" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/logo-300.svg"></a></div>
 </p>
 
 > Ltijs
@@ -31,7 +31,7 @@
 ---
 
 <p>
-  <center><a href="https://ltiaas.cvmcosta.com"><img width="320" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/ltiaas.svg"></a></center>
+  <div align="center"><a href="https://ltiaas.cvmcosta.com"><img width="320" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/ltiaas.svg"></a></div>
 </p>
 
 > LTI as a Service
@@ -44,7 +44,7 @@
 ---
 
 <p>
-  <center><a href="https://ltiaas.cvmcosta.com"><img width="280" src="assets/moodle-lti.png"></a></center>
+  <div align="center"><a href="https://ltiaas.cvmcosta.com"><img width="280" src="assets/moodle-lti.png"></a></div>
 </p>
 
 > Moodle as a LTI 1.3 Provider
