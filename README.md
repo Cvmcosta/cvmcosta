@@ -1,4 +1,3 @@
-<div align="center"><img width="260px" alt="ltijs" src="assets/avatar.png"></img></div> 
 
 <!-- Greeting -->
 <h1 style="margin-bottom: 0px" align="center">Carlos Costa | @cvmcosta</h1>
@@ -66,16 +65,16 @@
 
 
 <a href="mailto:cvmcosta@gmail.com">
-  <img style="margin-right: 5px" src="assets/svg/social/gmail.svg" alt="gmail" 
+  <img style="margin-right: 5px" src="https://img.shields.io/badge/Gmail-cvmcosta%40gmail.com-blue" alt="gmail" 
 </a>  
 
   
 <a href="https://twitter.com/cvmcosta">
-  <img style="margin-right: 5px" src="assets/svg/social/twitter.svg" alt="twitter"
+  <img style="margin-right: 5px" src="https://img.shields.io/badge/Twitter-%40cvmcosta-blue" alt="twitter"
 </a>
 
 <a href="https://www.linkedin.com/in/carlos-vin%C3%ADcius-761666145/">
-  <img style="margin-right: 5px" src="assets/svg/social/linkedin.svg" alt="linkedin" 
+  <img style="margin-right: 5px" src="https://img.shields.io/badge/Linkedin-Carlos%20Costa-blue" alt="linkedin" 
 </a>  
 
 
