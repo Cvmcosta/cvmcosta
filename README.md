@@ -35,7 +35,7 @@
 > LTI as a Service
 
 - [LTI 1.3 Provider as a microservice](https://ltiaas.cvmcosta.com)
-- [Easy access to all the LTI 1.3 Services through an easy to use API](https://ltiaas.cvmcosta.com/#/docs?id=api-documentation)
+- [Quick access to all the LTI 1.3 Services through an easy to use API](https://ltiaas.cvmcosta.com/#/docs?id=api-documentation)
 - [Easy to integrate with any application](https://ltiaas.cvmcosta.com/#/docs?id=installation-and-setup)
 
 
