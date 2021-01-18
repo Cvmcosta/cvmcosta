@@ -1,7 +1,6 @@
 
 <!-- Greeting -->
-<h1 style="margin-bottom: 0px" align="center">Carlos Costa | @cvmcosta</h1>
-<h3 style="margin-top: 10px" align="center">EdTech Developer and Consultant from 🇧🇷</h3>
+![Banner](assets/banner.svg)
 
 
 
