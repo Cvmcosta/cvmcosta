@@ -55,8 +55,8 @@
 ## 📫 Where to find me
 
 
-<a href="mailto:cvmcosta@gmail.com">
-  <img style="margin-right: 5px" src="https://img.shields.io/badge/Gmail-cvmcosta%40gmail.com-blue" alt="gmail" 
+<a href="mailto:cvmcosta@ltiaas.com">
+  <img style="margin-right: 5px" src="https://img.shields.io/badge/Gmail-cvmcosta%40ltiaas.com-blue" alt="gmail" 
 </a>  
 
   
