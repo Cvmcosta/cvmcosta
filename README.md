@@ -14,6 +14,25 @@
 ## 🌟 Featured projects
 
 
+<div align="center">
+	<a href="https://ltiaas.com"><img width="330" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/ltiaas.svg"></img></a>
+  <br>
+  <br>
+</div>
+
+> A ready-to-go SaaS LTI solution.
+
+If you need an enterprise-ready LTI deployment, LTIaaS can get you up and running in a matter of minutes. We offer a SaaS solution with a powerful, easy to use, API that gives you access to the entire functionality of the LTI protocol. And you only start paying once your product starts to grow.
+
+Through our consultation services we can help you design, build and maintain your LTI tool. The LTIaaS API is already being used to reach thousands of students across the entire world!
+
+> For more information visit [LTIaaS.com](https://ltiaas.com)
+> - [API Documentation](https://ltiaas.com/docs/)
+> - [Pricing information and simulator](https://ltiaas.com/pricing/)
+> - [Contact us](https://ltiaas.com/contact-us/)
+
+
+---
 
 <p>
   <div align="center"><a href="https://cvmcosta.github.io/ltijs"><img width="230" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/logo-300.svg"></a></div>
@@ -27,17 +46,6 @@
 
 ---
 
-<p>
-  <div align="center"><a href="https://ltiaas.cvmcosta.com"><img width="320" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/docs/ltiaas.svg"></a></div>
-</p>
-
-> LTI as a Service
-
-- [LTI 1.3 Provider as a service](https://ltiaas.com)
-- [Quick access to all the LTI 1.3 Services through an easy to use API](https://ltiaas.com/docs/)
-
-
----
 
 <p>
   <div align="center"><a href="https://ltiaas.cvmcosta.com"><img width="280" src="assets/moodle-lti.png"></a></div>
