@@ -11,7 +11,7 @@
 
 
 <div align="center">
-	<a href="https://ltiaas.com"><img width="330" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/website/assets/ltiaas.svg"></img></a>
+	<a href="https://ltiaas.com"><img width="330" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/website/assets/ltiaas.png"></img></a>
   <br>
   <br>
 </div>
@@ -31,7 +31,7 @@ Through our consultation services we can help you design, build and maintain you
 ---
 
 <p>
-  <div align="center"><a href="https://cvmcosta.github.io/ltijs"><img width="230" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/website/assets/logo-300.svg"></a></div>
+  <div align="center"><a href="https://cvmcosta.github.io/ltijs"><img width="230" src="https://raw.githubusercontent.com/Cvmcosta/ltijs/master/website/assets/logo.svg"></a></div>
 </p>
 
 > Ltijs
